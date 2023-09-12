@@ -7,5 +7,5 @@ import (
 )
 
 func TestExample(t *testing.T) {
-	assert.Equal(t, true, true)
+	assert.Equal(t, false, false)
 }
